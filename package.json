@@ -1,0 +1,22 @@
+{
+  "name": "typecho-cli",
+  "version": "1.1.1",
+  "description": "typecho-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artecho/typecho-cli.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Eysonyou",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Artecho/typecho-cli/issues"
+  },
+  "homepage": "https://github.com/Artecho/typecho-cli#readme"
+}
