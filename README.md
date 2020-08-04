@@ -1,0 +1,2 @@
+# typecho-cli
+typecho-cli
